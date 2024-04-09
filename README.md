@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **truantwilliam@gmail.com**
 
-- 📄 Know about my experiences [HERE](../CV_TRUANT_WILLIAM.pdf)
+- 📄 Know about my experiences [HERE](CV_TRUANT_WILLIAM.pdf)
 
 - ⚡ Fun fact **I'm a good developer ^^**
   
