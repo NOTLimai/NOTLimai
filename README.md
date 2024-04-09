@@ -1,5 +1,22 @@
-<h2 align="left">Hi 👋! My name is William and I'm a backend developer, from france</h2>
+<h1 align="left">Hi 👋! My name is William and I'm a backend developer, from france</h1>
 
+###
+
+
+- 🔭 I’m currently working on **my side project**
+
+- 🌱 I’m currently learning **NextJS & Laravel**
+
+- 👨‍💻 All of my projects are available at [https://truantwilliam.fr](https://truantwilliam.fr)
+
+- 💬 Ask me about **a web project**
+
+- 📫 How to reach me **truantwilliam@gmail.com**
+
+- 📄 Know about my experiences [HERE](../CV_TRUANT_WILLIAM.pdf)
+
+- ⚡ Fun fact **I'm a good developer ^^**
+  
 ###
 
 <div align="center">
@@ -9,10 +26,7 @@
 
 ###
 
-<img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHliMWQ1bmVzMjY4djFyOWNqYzYxcjdiczdlZDF2YWR5NHJwM3ZueSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YTzh3zw4mj1XpjjiIb/giphy.gif"  />
-
-###
-
+<h2>My stacks</h2>
 <div align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="30" alt="html5 logo"  />
   <img width="12" />
@@ -49,16 +63,14 @@
 
 ###
 
+<img height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHliMWQ1bmVzMjY4djFyOWNqYzYxcjdiczdlZDF2YWR5NHJwM3ZueSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YTzh3zw4mj1XpjjiIb/giphy.gif"  />
+
+###
+
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/NOTLimai/NOTLimai/output/snake.svg" alt="Snake animation" />
 
 ###
 
