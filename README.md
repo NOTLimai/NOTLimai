@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **my side project**
 
-- 🌱 I’m currently learning **NextJS & Laravel**
+- 🌱 I’m currently learning **ReactJs & Symfony**
 
 - 👨‍💻 All of my projects are available at [https://truantwilliam.fr](https://truantwilliam.fr)
 
